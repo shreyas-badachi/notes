@@ -23,23 +23,23 @@ This project implements:
 ### 🏠 Home Screen
 ![Home Screen](assets/images/10.jpeg)
 
-### Offline Add --Added two notes (net off) 
+### Offline Add -Added two notes (Internet off) 
 ![](assets/images/7.jpeg)
-### Offline Add --Two notes sync started and uploaded to Firestore(net on)
+### Offline Add -Two notes sync started and uploaded to Firestore(Internet on)
 ![](assets/images/7_1.png)
-### Offline Add --Tow notes succesfully added to Firestore (Succes =2)
+### Offline Add -Tow notes succesfully added to Firestore (Succes =2)
 ![](assets/images/7_2.jpeg)
 
 ### ✏ Offline Edit (Queue Increases)
-### Offline Edit--Edited ALready existed note (net off)
+### Offline Edit-Edited Already existed note (Internet off)
 ![](assets/images/edited.jpeg)
-### Offline Edit--Overwite the previous note hi to hi 1(net on)
+### Offline Edit-Overwrote the previous note "hi" to "hi 1" (Internet ON)
 ![](assets/images/edited_1.png)
 
 ### 🔄 Retry Simulation Logs
-### Retry Logs--Added two notes,,Fail test and succes test
+### Retry Logs-Added two notes,,Fail test and succes test
 ![](assets/images/retry.jpeg)
-### Retry Logs--Succes 1 and failed 1(note contains "fail" for first try) (net on)
+### Retry Logs-Succes 1 and failed 1(note contains "fail" for first try) (Internet on)
 ![](assets/images/retry_1.png)
 
 
