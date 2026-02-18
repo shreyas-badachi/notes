@@ -23,18 +23,24 @@ This project implements:
 ### 🏠 Home Screen
 ![Home Screen](assets/images/10.jpeg)
 
-### 📴 Offline Add (Queue Increases)
-![Offline Add -- Added two notes (network off)](assets/images/7.jpeg)
-![Offline Add -- Two notes sync started and uploaded to Firestore (network on)](assets/images/7_1.png)
-![Offline Add -- Two notes successfully added to Firestore (Success = 2)](assets/images/7_2.jpeg)
+### Offline Add --Added two notes (net off) 
+![](assets/images/7.jpeg)
+### Offline Add --Two notes sync started and uploaded to Firestore(net on)
+![](assets/images/7_1.png)
+### Offline Add --Tow notes succesfully added to Firestore (Succes =2)
+![](assets/images/7_2.jpeg)
 
 ### ✏ Offline Edit (Queue Increases)
-![Offline Edit -- Edited an already existing note (network off)](assets/images/edited.jpeg)
-![Offline Edit -- Overwrote the previous note from "hi" to "hi 1" (network on)](assets/images/edited_1.png)
+### Offline Edit--Edited ALready existed note (net off)
+![](assets/images/edited.jpeg)
+### Offline Edit--Overwite the previous note hi to hi 1(net on)
+![](assets/images/edited_1.png)
 
 ### 🔄 Retry Simulation Logs
-![Retry Logs -- Added two notes: one fail test and one success test](assets/images/retry.jpeg)
-![Retry Logs -- Success = 1 and Failed = 1 (note containing "fail" fails on first try) (network on)](assets/images/retry_1.png)
+### Retry Logs--Added two notes,,Fail test and succes test
+![](assets/images/retry.jpeg)
+### Retry Logs--Succes 1 and failed 1(note contains "fail" for first try) (net on)
+![](assets/images/retry_1.png)
 
 
 
